@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: #fa8072;
+  border: 2px solid black;
+}
+
+.selected {
+  background-color: #80fa72;
+}
